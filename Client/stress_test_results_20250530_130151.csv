@@ -1,0 +1,19 @@
+Nomor,Operasi,Volume,Jumlah client worker pool,Jumlah server worker pool,Waktu total per client,Throughput per client,Jumlah client worker berhasil,Jumlah client worker gagal,Jumlah server worker berhasil,Jumlah server worker gagal
+001,Upload,10MB,1,5,0.010,978.546,1,0,5,0
+001,Download,10MB,1,5,0.008,1182.906,1,0,5,0
+002,Upload,50MB,1,5,0.183,273.655,1,0,5,0
+002,Download,50MB,1,5,0.187,266.839,1,0,5,0
+003,Upload,100MB,1,5,0.415,241.160,1,0,5,0
+003,Download,100MB,1,5,0.394,253.683,1,0,5,0
+004,Upload,10MB,5,5,0.105,95.552,5,0,5,0
+004,Download,10MB,5,5,0.076,131.232,5,0,5,0
+005,Upload,50MB,5,5,0.536,93.360,5,0,5,0
+005,Download,50MB,5,5,0.421,118.728,5,0,5,0
+006,Upload,100MB,5,5,1.086,92.090,5,0,5,0
+006,Download,100MB,5,5,0.870,114.913,5,0,5,0
+007,Upload,10MB,10,5,0.175,57.142,10,0,5,0
+007,Download,10MB,10,5,0.145,68.998,10,0,5,0
+008,Upload,50MB,10,5,0.584,85.578,10,0,5,0
+008,Download,50MB,10,5,0.708,70.607,10,0,5,0
+009,Upload,100MB,10,5,1.344,74.381,10,0,5,0
+009,Download,100MB,10,5,2.360,42.373,10,0,5,0
