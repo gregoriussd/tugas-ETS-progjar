@@ -1,3 +1,3 @@
 ### DISCLAIMER  
   
-Dummy Data berukuran di atas 25MB tidak bisa diunggah pada repository
+File Dummy Data berukuran besar mungkin gagal terunggah ke repository
